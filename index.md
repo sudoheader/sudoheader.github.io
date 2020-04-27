@@ -10,7 +10,7 @@ Source code for this website is hosted on [GitHub](https://github.com/sudoheader
 
 [Wargames](https://github.com/sudoheader/Wargames)
 
-These are mainly hosted on [OverTheWire](overthewire.org) and include:
+These are mainly hosted on [OverTheWire](https://overthewire.org) and include:
 
 1. [Bandit](https://github.com/sudoheader/Wargames/blob/master/Bandit/README.md)
 2. [Leviathan](https://github.com/sudoheader/Wargames/blob/master/Leviathan/README.md)
@@ -18,7 +18,7 @@ These are mainly hosted on [OverTheWire](overthewire.org) and include:
 
 [CTF](https://github.com/sudoheader/CTF)
 
-[247/CTF](247ctf.com)
+[247/CTF](https://247ctf.com)
 
 
 ## Social

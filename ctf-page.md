@@ -6,8 +6,8 @@ layout: default
 
 Here is a list of Wargames and CTF challenges that I have participated in.
 
-[OverTheWire](overthewire.org)
+[OverTheWire](https://overthewire.org)
 
-[247/CTF](247ctf.com)
+[247/CTF](https://247ctf.com)
 
 [back](./)
