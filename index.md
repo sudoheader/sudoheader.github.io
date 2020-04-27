@@ -26,7 +26,7 @@ Normally I would go with Kali Linux but it is not entirely necessary. Windows is
 
 BTW I use [Arch](https://archlinux.org)
 
-And [vim](https://vim.org) but I have grown accustomed to using [VSCodium](https://vscodium.com/)---a FOSS implementation of VSCode. WIth vim keybindings of course.
+And [vim](https://vim.org) but I have grown accustomed to using [VSCodium](https://vscodium.com/)---a FOSS implementation of VSCode. With vim keybindings of course.
 
 Install the Python extension from Microsoft.
 
