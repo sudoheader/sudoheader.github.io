@@ -36,7 +36,7 @@ There are many ways to install [Arch](https://archlinux.org) but the way that I 
 
 #### VMWare vs. Virtual Box
 
-For all intents and purposes, one should stick with [VirtualBox](https://www.virtualbox.org/) but I recommend [VMWare](https://www.vmware.com/) if possible.
+For all intents and purposes, one should stick with [VirtualBox](https://www.virtualbox.org/) but I recommend [VMware](https://www.vmware.com/) if possible.
 
 ## Contact
 
