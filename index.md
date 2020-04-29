@@ -28,7 +28,7 @@ BTW I use [Arch](https://archlinux.org)
 
 And [vim](https://vim.org) but I have grown accustomed to using [VSCodium](https://vscodium.com/) --- a FOSS implementation of VSCode. With vim keybindings of course.
 
-Install the Python extension from Microsoft.
+Install the Python extension from Microsoft. Try out the [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) and [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) or the theme I currently use [HackTheBox](https://marketplace.visualstudio.com/items?itemName=silofy.hackthebox).
 
 ### Arch Linux Install
 
