@@ -45,3 +45,5 @@ For all intents and purposes, one should stick with [VirtualBox](https://www.vir
 [LinkedIn](https://www.linkedin.com/in/sudoheader)
 
 [Twitter](https://twitter.com/sudoheader)
+
+<script src="https://tryhackme.com/badge/661"></script>
