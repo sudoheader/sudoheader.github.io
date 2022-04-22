@@ -48,4 +48,4 @@ For all intents and purposes, one should stick with [VirtualBox](https://www.vir
 
 <script src="https://tryhackme.com/badge/661"></script>
 
-[HackTheBox](https://www.hackthebox.com/badge/image/150062)
+![HackTheBox](https://www.hackthebox.com/badge/image/150062)
