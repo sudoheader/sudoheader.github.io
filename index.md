@@ -46,6 +46,8 @@ For all intents and purposes, one should stick with [VirtualBox](https://www.vir
 
 [Twitter](https://twitter.com/sudoheader)
 
+<a rel="me" href="https://infosec.exchange/@sudoheader">Mastodon</a>
+
 <script src="https://tryhackme.com/badge/661"></script>
 
 ![HackTheBox](https://www.hackthebox.com/badge/image/150062)
